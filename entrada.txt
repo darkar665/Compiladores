@@ -1,0 +1,11 @@
+fun validarSuma(){
+    si (var numero >2){
+        numero = 5+2;
+        retornar verdadero;
+    }
+
+    imprimir(validarSuma());
+    mientras(este.numero){
+        imprimir("Hola mundo")
+    }
+}

@@ -1,0 +1,60 @@
+< Palabra Reservada, fun >
+< id, validarSuma >
+< Caracter ,( >
+< Caracter ,) >
+< Caracter ,{ >
+< Palabra Reservada, si >
+< Caracter ,( >
+< Palabra Reservada, var >
+< id, numero >
+< operacional, > >
+< numero, 2 >
+< Caracter ,) >
+< Caracter ,{ >
+< id, numero >
+< operacional, = >
+< numero, 5 >
+< Caracter ,+ >
+< numero, 2 >
+< Caracter ,; >
+< Palabra Reservada, retornar >
+< Palabra Reservada, verdadero >
+< Caracter ,; >
+< Caracter ,} >
+< Palabra Reservada, imprimir >
+< Caracter ,( >
+< id, validarSuma >
+< Caracter ,( >
+< Caracter ,) >
+< Caracter ,) >
+< Caracter ,; >
+< Palabra Reservada, mientras >
+< Caracter ,( >
+< Palabra Reservada, este >
+Error en la linea 8
+< id, numero >
+< Caracter ,) >
+< Caracter ,{ >
+< Palabra Reservada, imprimir >
+< Caracter ,( >
+< Caracter ," >
+< id, Hola >
+< id, mundo >
+< Caracter ," >
+< Caracter ,) >
+< Caracter ,} >
+< Caracter ,} >
+El número de lineas en este programa son: 11
+El número de caracteres es: 205
+Hola 1
+este 1
+fun 1
+imprimir 2
+mientras 1
+mundo 1
+numero 3
+retornar 1
+si 1
+validarSuma 2
+var 1
+verdadero 1
